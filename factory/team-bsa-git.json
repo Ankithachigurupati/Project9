@@ -1,0 +1,9 @@
+{
+	"name": "team-bsa-git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28e357ee-de24-4e3a-a4c5-e4f64840303b",
+		"tenantId": "18c3b4f7-e526-4f98-939a-19118361cac0"
+	}
+}

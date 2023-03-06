@@ -1,0 +1,17 @@
+{
+	"name": "devops_project",
+	"properties": {
+		"activities": [
+			{
+				"name": "devops",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
